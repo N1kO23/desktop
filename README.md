@@ -18,8 +18,8 @@ This is a desktop application for Revolt built on Electron.
 ### Revolt
 
 -   [Revolt Project Board](https://github.com/revoltchat/revolt/discussions) (Submit feature requests here)
--   [Revolt Testers Server](https://app.revolt.chat/invite/Testers)
--   [Contribution Guide](https://developers.revolt.chat/contributing)
+-   [Revolt Testers Server](https://app.revolt.geoxor.moe/invite/Testers)
+-   [Contribution Guide](https://developers.revolt.geoxor.moe/contributing)
 
 ## Quick Start
 

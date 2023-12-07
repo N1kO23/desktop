@@ -11,16 +11,16 @@ export async function connectRPC() {
 
         rpc.on("ready", () =>
             rpc.setActivity({
-                state: "revolt.chat",
+                state: "revolt.geoxor.moe",
                 details: "Chatting with others",
                 largeImageKey: "qr",
                 largeImageText: "Communication is critical – use Revolt.",
                 buttons: [
                     {
                         label: "Join Public Beta",
-                        url: "https://revolt.chat/publicbeta",
+                        url: "https://revolt.geoxor.moe/publicbeta",
                     },
-                    { label: "Website", url: "https://revolt.chat" },
+                    { label: "Website", url: "https://revolt.geoxor.moe" },
                 ],
             }),
         );
